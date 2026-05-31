@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Print out my initials in large stylized letters.
-# Assignment Number: 1
+# Assignment Number: 2
 #
 # Name: Emmanuella Awukubea Opare
 # STUDENT ID: 2425404681
